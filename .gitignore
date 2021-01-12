@@ -1,2 +1,3 @@
 Dataset/*.jpg
 Dataset/Blurred/*.jpg
+*.log
